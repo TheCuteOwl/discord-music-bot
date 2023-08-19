@@ -8,14 +8,20 @@
 
 ## <a id="features"></a>🤖・Features
 Play music: You can use the play command to play a song from YouTube.
+
 Disconnect command: You can use the disconnect command to disconnect the bot from the voice channel.
+
 Skip command: You can use the skip command to skip the current song.
+
 Delete file after song end: The bot will automatically delete the file of the played song after it ends.
 
 ## <a id="explanation"></a>👁️・Features Explanation
 Play music: The play command takes a YouTube URL as an argument and plays the song in the voice channel that the bot is connected to.
+
 Disconnect command: The disconnect command disconnects the bot from the voice channel.
+
 Skip command: The skip command skips the current song.
+
 Delete file after song end: The bot will automatically delete the file of the played song after it ends. This is to prevent the file from taking up too much space on the bot's hard drive.
 
 ## <a id="Install"></a>🔎・How to install
