@@ -25,6 +25,9 @@ Skip command: The skip command skips the current song.
 Delete file after song end: The bot will automatically delete the file of the played song after it ends. This is to prevent the file from taking up too much space on the bot's hard drive.
 
 ## <a id="Install"></a>🔎・How to install
+The discord must have those intent enabled
+
+Presence, Server Members, Message Content 
 
 Install Python 3.11
 
