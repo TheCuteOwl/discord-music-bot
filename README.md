@@ -1,6 +1,3 @@
-Discord Music Bot
-This is a Discord music bot that allows you to play music from YouTube. It has the following features:
-
 ## 🌐 〢 Content
 - [🤖・Features](#features)
 - [👁️・Features Explanation](#explanation)
