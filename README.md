@@ -37,7 +37,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-Put the bot token into the code last line
+Put the bot token into the code
 
 Run the bot:
 
