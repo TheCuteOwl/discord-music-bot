@@ -1,3 +1,5 @@
+i don't know if i will update it, because it still work
+
 ## 🌐 〢 Content
 - [🤖・Features](#features)
 - [👁️・Features Explanation](#explanation)
